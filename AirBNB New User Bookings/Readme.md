@@ -7,16 +7,23 @@ CAPSTONE PROJECT
 This project requires the following python libraries:
 
 . Numpy
+
 . Pandas
+
 . Matplotlib
+
 . Scikit-Learn
+
 . XGBoost
 
 Software will also be need to run an execute an iPython Notebook
 
 The deliverables are:
+
 . An iPython notebook airbnb_capstone.ipynb containing the code
+
 . A project report entitled Capstone Project Report in pdf
+
 . A csv file final_submission.csv containing the predicted values.
 
 The datasets required for the project can be downloaded at:
